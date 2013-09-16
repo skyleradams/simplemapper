@@ -1,9 +1,9 @@
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
-
- 
-
+//SIMPLEMAPPER
+//A PROJECTION MAPPING PROGRAM
+//using Minim beat detection: //http://matthewbrown.net.au/programming/minim-and-beat-detection/
 
 
  
